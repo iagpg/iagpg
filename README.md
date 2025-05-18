@@ -40,4 +40,5 @@ Gosto de jogos desde a infância. Comecei programando com **Lua Script** no Robl
 
 
 ## 📫 Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iago.pereirasp17@gmail.com)   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iago.pereirasp17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/iago-gama-7137201b6)
